@@ -8,5 +8,3 @@ build:
 .PHONY: clean
 clean:
 	@rm -rf $(BIN_DIR)/
-	@rm -f *linux-amd64
-	@rm -f *darwin-amd64
